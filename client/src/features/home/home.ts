@@ -1,5 +1,5 @@
 import { Component, Input, signal } from '@angular/core';
-import { Register } from "../../fetures/account/register/register";
+import { Register } from "../../features/account/register/register";
 import { User } from '../../types/user';
 
 @Component({
